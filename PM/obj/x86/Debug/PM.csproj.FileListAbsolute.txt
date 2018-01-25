@@ -1,0 +1,5 @@
+/Users/makanalioucoulibaly/Projects/PM/obj/x86/Debug/PM.csproj.CoreCompileInputs.cache
+/Users/makanalioucoulibaly/Projects/PM/bin/Debug/PM.exe
+/Users/makanalioucoulibaly/Projects/PM/bin/Debug/PM.pdb
+/Users/makanalioucoulibaly/Projects/PM/obj/x86/Debug/PM.exe
+/Users/makanalioucoulibaly/Projects/PM/obj/x86/Debug/PM.pdb
